@@ -19,6 +19,7 @@ namespace CodingChallenges.Tests
             Assert.False(Real.IsReal("+1"));
             Assert.False(Real.IsReal("22-"));
             Assert.False(Real.IsReal("--1"));
+            Assert.False(Real.IsReal("."));
             Assert.False(Real.IsReal("valid number"));
         }
     }
