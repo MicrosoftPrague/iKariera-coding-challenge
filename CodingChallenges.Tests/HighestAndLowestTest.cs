@@ -7,7 +7,8 @@ namespace CodingChallenges.Tests
         [Fact]
         public void TestHighestAndLowest()
         {
-            var actual = HighestAndLowest.HighAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4");
+            var numbers = "8 3 -5 42 -1 0 0 -9 4 7 4 -4";
+            var actual = HighestAndLowest.HighAndLow(numbers);
             Assert.Equal("42 -9", actual);
         }
     }
