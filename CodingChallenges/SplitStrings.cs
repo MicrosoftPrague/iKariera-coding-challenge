@@ -17,7 +17,7 @@ namespace CodingChallenges
 
     public static class SplitStrings
     {
-        public static string SplitIt(string str)
+        public static string[] SplitIt(string str)
         {
             // TODO Add implementation
             return null;

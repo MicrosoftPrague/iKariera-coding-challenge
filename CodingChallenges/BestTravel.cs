@@ -17,7 +17,7 @@
 **  The biggest possible sum taking a limit of 174 into account is then 173 and the
 **  distances of the 3 corresponding towns is [55, 58, 60].
 **
-**  The function chooseBestSum will take as parameters:
+**  The function ChooseBestSum will take as parameters:
 **      - 'maxDistance' (maximum sum of distances, integer >= 0)
 **      - 'numberOfTowns' (number of towns to visit, integer >= 1)
 **      - 'distances' (list of distances, all distances 
@@ -27,9 +27,9 @@
 **  less than or equal to the given limit 'maxDistance', if that sum exists, or otherwise null.
 **
 **  Examples:
-**  distances = [50, 55, 56, 57, 58] choose_best_sum(163, 3, distances) -> 163
-**  distances = [50] choose_best_sum(163, 3, distances) -> null
-**  distances = [91, 74, 73, 85, 73, 81, 87] choose_best_sum(230, 3, distances) -> 228
+**  distances = [50, 55, 56, 57, 58] ChooseBestSum(163, 3, distances) -> 163
+**  distances = [50] ChooseBestSum(163, 3, distances) -> null
+**  distances = [91, 74, 73, 85, 73, 81, 87] ChooseBestSum(230, 3, distances) -> 228
 **
 **  https://en.wikipedia.org/wiki/Subset_sum_problem
 ****/
@@ -42,7 +42,7 @@ namespace CodingChallenges
 
     public static class BestTravel
     {
-        public static int? chooseBestSum(int maxDistance, int numberOfTowns, List<int> distances)
+        public static int? ChooseBestSum(int maxDistance, int numberOfTowns, List<int> distances)
         {
             // TODO Add implementation
             return null;

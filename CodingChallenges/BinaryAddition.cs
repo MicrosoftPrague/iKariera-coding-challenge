@@ -11,7 +11,7 @@ namespace CodingChallenges
 
     public static class BinaryAddition
     {
-        public static string ComputeBinarySum()
+        public static string ComputeBinarySum(int a, int b)
         {
             // TODO Add implementation
             return null;
