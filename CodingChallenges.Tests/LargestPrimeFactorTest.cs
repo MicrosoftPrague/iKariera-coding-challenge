@@ -8,7 +8,8 @@ namespace CodingChallenges.Tests
         [Fact]
         public void TestLargestPrimeFactor()
         {
-            Assert.Equal(6857, LargestPrimeFactor.GetLargestPrimeFactor());
+            var actual = LargestPrimeFactor.GetLargestPrimeFactor();
+            Assert.Equal(6857, actual);
         }
     }
 }

@@ -8,7 +8,8 @@ namespace CodingChallenges.Tests
         [Fact]
         public void TestEvenFibonacciNumbers()
         {
-            Assert.Equal(4613732, EvenFibonacciNumbers.GetSum());
+            var actual = EvenFibonacciNumbers.GetSum();
+            Assert.Equal(4613732, actual);
         }
     }
 }
