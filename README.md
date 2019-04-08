@@ -9,6 +9,7 @@ You probably already know the prize at stake from our colleagues at the booth - 
 Please take note that you **must** be a student at Czech Technical University in Prague in order to be eligible for the prize at stake. If selected for the barbeque on the terrace :fork_and_knife:, you will have to present your valid student ID issued by the university. The challenges are free to be resolved by anyone.
 
 The hard deadline for this challenge is **21.04.2019 23:55 CET**.
+
 We will announce the winners by **28.04.2019 23:55 CET** via email.
 
 After you finish the challenges, please make sure to email us at [joinprg@microsoft.com](mailto:joinprg@microsoft.com) with details on how to access your repository (you will add one of the judges as [collaborator](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository)). Please include - `[iKariera]` - in the subject line when sending this email :bow:
