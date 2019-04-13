@@ -15,7 +15,7 @@ namespace CodingChallenges.Tests
             Assert.Equal("Hey wollef sroirraw", actual);
 
             actual = StopGninnipsMySdrow.SpinWords("This is a test");
-            Assert.Equal("This is a tes", actual);
+            Assert.Equal("This is a test", actual);
 
             actual = StopGninnipsMySdrow.SpinWords("This is another test");
             Assert.Equal("This is rehtona test", actual);
